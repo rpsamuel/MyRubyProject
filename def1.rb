@@ -30,6 +30,6 @@ line(11,'+','=')
 def incr(n)
     n = n + 1
 end
-a = 5
+a = 8
 incr(a)
 print a,"\n"
