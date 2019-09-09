@@ -1,2 +1,2 @@
 "# MyRubyProject" 
-https://travis-ci.org/rpsamuel/learnC-.svg?branch=master
+https://travis-ci.org/rpsamuel/MyRubyProject.svg?branch=master
